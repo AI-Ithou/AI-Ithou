@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AI-Ithou/">
-    <img src="https://img.shields.io/github/followers/AI-Ithou?label=关注&style=social" alt="GitHub followers" />
+    <img src="https://github.githubassets.com/assets/apple-touch-icon-120x120-92bd46d04241.png" alt="GitHub followers" />
   </a>
 </p>
 
