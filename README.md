@@ -1,18 +1,11 @@
 <div align="center">
-  <img src="https://shitu-query-gz.gz.bcebos.com/2024-08-27/17/45680172d31286bb?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2024-08-27T09%3A49%3A26Z%2F300%2Fhost%2Fa8fd9c93cee627806e8534b1ff241e0a02953fa0f02ff74e862d3ccb7e8b5592" alt="个人横幅" />
   <h1>欢迎来Ithou-AI 主页！👋,我们始终致力于打造AI功能生态</h1>
 </div>
 
-<div align="center">
-  <img src="https://shitu-query-gz.gz.bcebos.com/2024-08-27/20/493d96d01ea45f40?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2024-08-27T12%3A52%3A48Z%2F300%2Fhost%2F37c7ad07afe937b2e9dd375b6c9da8a2595321b86417cbb00dbab593bbffba5d" alt="Typing SVG" />
-</div>
 
 <p align="center">
   <a href="https://github.com/AI-Ithou/">
-    <img src="https://img.shields.io/github/followers/your-github-username?label=关注&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://twitter.com/your-twitter-username">
-    <img src="https://img.shields.io/twitter/follow/your-twitter-username?label=关注&style=social" alt="Twitter followers" />
+    <img src="https://img.shields.io/github/followers/AI-Ithou?label=关注&style=social" alt="GitHub followers" />
   </a>
 </p>
 
