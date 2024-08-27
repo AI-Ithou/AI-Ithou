@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://your-banner-image-url.com" alt="个人横幅" />
-  <h1>欢迎来到我的 GitHub 主页！ 👋</h1>
+  <img src="https://shitu-query-gz.gz.bcebos.com/2024-08-27/17/45680172d31286bb?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2024-08-27T09%3A49%3A26Z%2F300%2Fhost%2Fa8fd9c93cee627806e8534b1ff241e0a02953fa0f02ff74e862d3ccb7e8b5592" alt="个人横幅" />
+  <h1>欢迎来Ithou-AI 主页！👋,我们始终致力于打造AI功能生态</h1>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=58A6FF&background=FFFFFF00&center=true&width=500&height=60&lines=全栈开发者;开源爱好者;技术博主" alt="Typing SVG" />
+  <img src="https://shitu-query-gz.gz.bcebos.com/2024-08-27/20/493d96d01ea45f40?authorization=bce-auth-v1%2F7e22d8caf5af46cc9310f1e3021709f3%2F2024-08-27T12%3A52%3A48Z%2F300%2Fhost%2F37c7ad07afe937b2e9dd375b6c9da8a2595321b86417cbb00dbab593bbffba5d" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/AI-Ithou/">
     <img src="https://img.shields.io/github/followers/your-github-username?label=关注&style=social" alt="GitHub followers" />
   </a>
   <a href="https://twitter.com/your-twitter-username">
@@ -17,28 +17,33 @@
 </p>
 
 ---
-
 ### 👨‍💻 关于我
 
-你好！我是 **[你的名字]**，来自 **[你的城市/国家]** 的一名充满激情的开发者，热衷于构建创新解决方案并积极参与开源项目。
+你好！我是 **[Ithou]**, 一名充满激情的开发者。我对技术充满热情，尤其是人工智能和大数据领域，我相信通过代码可以改变世界！
 
-- 🔭 我目前正在研究 **[你的项目](https://github.com/your-project-link)**
-- 🌱 我目前正在学习 **[你学习的主题]**
-- 💬 如果你对 **[你的专业领域]** 有任何疑问，欢迎向我提问
-- 📫 联系方式：[your.email@example.com](mailto:your.email@example.com)
-- ⚡ 趣事：**[关于你的有趣事实！]**
+- 🔭 **探索 AI 前沿：** 目前我正在深入研究 **[AI 知识图谱](https://github.com/AI-Ithou?tab=repositories)**，致力于揭示数据之间隐藏的联系，并推动智能系统的发展。
+- 🌱 **商业知识库的未来：** 正在努力实现 **商业知识库的落地与功能租户化**，希望能够为企业提供智能化、个性化的解决方案，助力业务增长。
+- 💬 **一起讨论：** 我热衷于与社区分享我的想法和学习成果。如果你对 **[Ithou 项目]** 有任何疑问或者建议，非常欢迎与我交流，一起探讨技术的无限可能！
+- 📫 **保持联系：** 欢迎随时通过邮件 [281009926@qq.com](mailto:281009926@qq.com.com) 联系我，让我们共同探讨科技的未来！
+- ### ⚡ 趣事
+
+> 有一次，我在 Java 项目里尝试用 Python 的语法写代码，结果可想而知，编译器笑得比我还开心 😂
+
+> 我喜欢在代码注释里加上一些笑话，这样当我以后再回来看的时候，我自己也能笑一笑 😄
+
+> 每当我喝完一杯咖啡，我的代码就会变得更好。可能是因为咖啡因在我的血液里，而不是在代码里 ☕️
 
 ### 🛠️ 技能和工具
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,kubernetes,react,vue,js,ts,nodejs,php,go,java,python,mongodb,postgres,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,kubernetes,react,spring,vue,js,ts,nodejs,go,java,python,mongodb,postgres,linux&perline=7" />
 </p>
 
 ### 🔥 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AI-Ithou&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Ithou&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true" alt="Top languages" />
 </div>
 
 ### 🌟 连续贡献统计
@@ -55,32 +60,34 @@
 
 ### 🚀 最新项目
 
-- [**项目1**](https://github.com/your-project-link) - *项目1的描述。*
-- [**项目2**](https://github.com/your-project-link) - *项目2的描述。*
-- [**项目3**](https://github.com/your-project-link) - *项目3的描述。*
+
+- [**AI 项目全景图**](https://github.com/AI-Ithou/AI-Ithou) - *探索全面的 AI 项目集合，快速了解最新的人工智能技术和应用。*
+- [**AI 知识图谱库**](https://github.com/AI-Ithou/AI-Graph) - *掌控复杂事务关系的 AI 图谱库，直观管理和探索数据中的深层联系。*
+
 
 ### 📫 与我联系
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.feishu.cn/invitation/page/add_contact/?token=399ra035-6d55-445e-a9e4-7ad5eb7f27db">
+    <img src="https://img.shields.io/badge/-飞书-%2300C7B7?style=for-the-badge&logo=bytedance&logoColor=white" alt="飞书" />
   </a>
-  <a href="https://twitter.com/your-twitter-username">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:281009926@qq.com">
+    <img src="https://img.shields.io/badge/-邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" />
   </a>
-  <a href="https://dev.to/your-devto-username">
-    <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <a href="tencent://message/?uin=281009926@qq.com&Site=&Menu=yes">
+    <img src="https://img.shields.io/badge/-QQ-%2311A5E3?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
   </a>
 </p>
 
 ### ✍️ 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [如何创建一个酷炫的 GitHub 个人主页](https://your-blog-link.com)
-- [深入了解 Docker 和 Kubernetes](https://your-blog-link.com)
-- [10个JavaScript技巧和窍门](https://your-blog-link.com)
+
+- [如何创建一个适合大模型的数据处理架构](https://your-blog-link.com)
+- [深入了解传统数据库和向量数据库的区别](https://your-blog-link.com)
+- [大模型下的知识图谱数据库：构建与应用](https://your-blog-link.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/your-github-username)
+⭐️ From [Ithou-AI](https://github.com/AI-Ithou/)
